@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Fahmi",
+  "description": "Sebuah website portofolio pribadi modern dan responsif untuk Fahmi, dibangun dengan React, Tailwind CSS, dan Lucide Icons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
